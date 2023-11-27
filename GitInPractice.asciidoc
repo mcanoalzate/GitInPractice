@@ -4,3 +4,5 @@ Git In Practice makes Git in Perfect!
 // TODO: Is this funny?
 Improve Joke comic timing
 Another change
+
+== Chapter 2
