@@ -6,3 +6,5 @@ Improve Joke comic timing
 Another change
 
 == Chapter 2
+First line of chapter 2
+
